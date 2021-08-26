@@ -11,6 +11,6 @@ package util;
  */
 public interface Properties {
     String username = "root";
-    String password = "4rl3sr0dr1gu3z2022";
+    String password = "p4ssw0rd";
     String dbURL = "jdbc:mysql://localhost:3306/libreria";
 }
